@@ -5,7 +5,11 @@ Cancer Cellularity can be defined as the ratio of volume of cancer cells present
 ## Data
 The dataset provided, consisted of 2394 images for training and 185 images for validation. The images were of the size (256x256). The output for each image was the cellularity between 0 and 1. 
 Given below is an example of the data.
+
+
 ![image 1](/images/cancer.jpg)
+
+
 The cellularity of this image is 0.97
 
 ## Training 
